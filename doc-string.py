@@ -16,4 +16,6 @@ Calcula IMC
 
 # testes:
 pessoa = IMC(80, 1.72)
+print(f"IMC: {pessoa:.2f}")
+# ajuda: https://docs.python.org/3/library/functions.html#help
 help(IMC)
