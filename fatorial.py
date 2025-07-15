@@ -22,6 +22,6 @@ def fatorial(x):
     return x * fatorial(x-1)
 
 
-# 
+# imprime o fatorial de 0 a 9
 for i in range(10):
   print(fatorial(i))  
